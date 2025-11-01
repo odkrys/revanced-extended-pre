@@ -53,9 +53,11 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 enabled = true
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
+patcher-args = " -e 'GmsCore support'"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
