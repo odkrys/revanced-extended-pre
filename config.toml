@@ -57,7 +57,7 @@ patcher-args = " -e 'GmsCore support'"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-version = "latest"
+patches-version = "v5.13.1-dev.2"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
