@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches dev.2)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/odkrys/revanced-extended-pre/releases/download/1/youtube-revanced-extended-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches dev.1)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/odkrys/revanced-extended-pre/releases/download/2/youtube-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/odkrys/revanced-extended-pre/update/build.md"
 }
