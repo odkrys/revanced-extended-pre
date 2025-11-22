@@ -56,7 +56,7 @@ patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-patches-version = "v5.13.1-dev.2"
+patches-version = "v5.14.1-dev.1"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
